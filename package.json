@@ -6,9 +6,25 @@
   "dependencies": {
     "axios": "^0.27.2",
     "express": "^4.18.1",
-    "nodemailer": "^6.7.8"
+    "nodemailer": "^6.7.8",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5"
   },
   "engines": {
     "node": "12.x"
-  }
+  },
+  "name": "nodemailer",
+  "description": "",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NodeJs3213/Nodemailer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NodeJs3213/Nodemailer/issues"
+  },
+  "homepage": "https://github.com/NodeJs3213/Nodemailer#readme"
 }
